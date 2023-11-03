@@ -1,0 +1,73 @@
+a:hover{
+    color: rgb(169, 68, 68);
+}
+
+.acenter{
+    text-align: center;
+}
+
+a{
+    color: black;
+    font-size: small;
+}
+
+.void{
+    height: 100px;
+    width: 100px;
+}
+
+h1{
+    
+    text-align: center;
+    font-size: 80px;
+}
+
+h1, h2{
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 25px;
+
+}
+
+h4{
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    font-style: italic;
+}
+
+h5 {
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+}
+
+hr{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 60%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right,rgba(0, 0, 0, 0.663),rgb(0, 0, 0),rgba(0, 0, 0, 0.663));
+}
+
+table{
+    width: 100%;
+}
+
+.inpradio{
+    width: 20px;
+}
+
+#here{
+    font-size: medium;
+    color: red;
+}
+
+.imgmarg{
+    width: 75%;
+    margin: auto;
+}
